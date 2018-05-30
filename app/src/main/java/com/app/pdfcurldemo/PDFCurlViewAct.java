@@ -53,6 +53,8 @@ public class PDFCurlViewAct extends Activity {
             }
         }
 
+        // Testing
+
         private synchronized void notify_init() {
             if (is_waitting)
                 notify();
