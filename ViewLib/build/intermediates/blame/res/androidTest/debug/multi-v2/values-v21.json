@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/dev/Work/Studio/Check Demo Projects/PDFCurlDemo/ViewLib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/home/dev/Work/Studio/Check Demo Projects/PDFCurlDemo/ViewLib/build/intermediates/bundles/debug/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,210",
+                        "endLines": "4,5",
+                        "endColumns": "12,82",
+                        "endOffsets": "205,288"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/dev/Work/Studio/Check Demo Projects/PDFSample/ViewLib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/home/dev/Work/Studio/Check Demo Projects/PDFSample/ViewLib/build/intermediates/bundles/debug/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,210",
+                        "endLines": "4,5",
+                        "endColumns": "12,82",
+                        "endOffsets": "205,288"
+                    }
+                }
+            ]
+        }
+    ]
+}

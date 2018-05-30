@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/dev/Work/Studio/Check Demo Projects/PDFCurlDemo/ViewLib/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/dev/Work/Studio/Check Demo Projects/PDFCurlDemo/ViewLib/src/debug/shaders"/></dataSet></merger>
